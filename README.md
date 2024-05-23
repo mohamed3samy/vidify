@@ -30,8 +30,6 @@ Vidify, a cutting-edge app crafted with React Native, Expo, Expo Router, Nativew
 
 👉 **Profile Screen with Detailed Insights**: Explore account details and activity, such as uploaded videos and follower count, for a personalized user experience.
 
-👉 **Responsiveness**: Smooth performance and adaptability on different devices and screen sizes to ensure a consistent user experience.
-
 👉 **Animations**: Enhancing user interaction and engagement in the app's UI through dynamic animations using the Animatable library.
 
 and many others, such as code structure and reusability 
