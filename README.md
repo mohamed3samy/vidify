@@ -34,7 +34,7 @@ Vidify, a cutting-edge app crafted with React Native, Expo, Expo Router, Nativew
 
 and many others, such as code structure and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">⚡ Quick Start</a>
 
 Follow these steps to set up the project on your local machine.
 
